@@ -1,0 +1,42 @@
+.homeContainer{
+    /* padding-top: 50px; */
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    /* background-color: #f1d8ff; */
+
+  
+    width: 100%;
+  }
+  
+  .homeTitle{
+    width: 1024px;
+    font-size: 20px;
+
+  }
+
+  .holder1{
+  /* ff 3.6+ */
+  background:linear-gradient(to bottom, rgb(255, 61, 54) 0%, rgb(252, 140, 136) 99%); 
+
+
+  }
+  .clip1{
+      /* ff 3.6+ */
+      background:linear-gradient(to bottom,rgb(252, 140, 136) 0%, rgb(255, 255, 255) 99%); 
+  
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+
+  .holder2{
+     /* ff 3.6+ */
+  background:linear-gradient(to bottom, rgb(252, 140, 136) 0%,rgb(255, 61, 54) 99%); 
+  width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+  }
